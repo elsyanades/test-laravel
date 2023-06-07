@@ -1,0 +1,4 @@
+Project dibuat dengan Laravel 9 , bootstrap
+
+Login Sebagai Admin = email : admin@gmail.com , pass : 12345
+Login Sebagai Operator =  email : operasional@gmail.com , pass : 12345
